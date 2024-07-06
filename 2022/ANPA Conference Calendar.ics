@@ -1,0 +1,515 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Magic wavelength for two-photon 1S�nS transitions in deuterium
+DTEND:20220716T131500Z
+DTSTART:20220716T130000Z
+SUMMARY:Chandra Adhikari
+UID:1f3cf092-df11-4789-8dc5-ce9019ad1508@1f3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Magnetic levitation within a microwave cavity: characterization\, challenges\, possibilities\, and experiments
+DTEND:20220716T200000Z
+DTSTART:20220716T194500Z
+SUMMARY:Nabin Kumar Raut
+UID:9bd0c6ef-bb6e-41ba-910e-cff54eb295e6@9bd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Forming Blue Compact Dwarf Galaxy (BCD) Through the Merger
+DTEND:20220716T031500Z
+DTSTART:20220716T030000Z
+SUMMARY:Daya Nidhi Chhatkuli
+UID:3ae5f7f0-08ab-4821-9789-7e2eeee1864d@3ae5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Electronic Structures\, Magnetic Properties and Strain Effects of Quaternary Heusler Alloy ZrRuTiIn
+DTEND:20220716T041500Z
+DTSTART:20220715T040000Z
+SUMMARY:Ram Babu Ray
+UID:ef80d272-3d5e-4f93-978c-0b299d9adbef@ef80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Binding Free Energy of Sickle and Normal Hemoglobin Dimer Protein: Umbrella Sampling Molecular Dynamics".
+DTEND:20220716T031500Z
+DTSTART:20220716T030000Z
+SUMMARY:Jhulan Powrel
+UID:02b47d76-62f7-4d6c-b675-2a5cf6cad48f@02b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Scaffolding Writing in Physics Labs
+DTEND:20220715T233000Z
+DTSTART:20220715T231500Z
+SUMMARY:Anna Mederer
+UID:887bd5cc-ae77-441b-aea5-9931e2727fc6@887b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Effect of dilute magnetism in a topological insulator
+DTEND:20220715T234500Z
+DTSTART:20220715T233000Z
+SUMMARY:Iftakhar Bin Elius
+UID:b38de05e-4e0c-4005-8551-3ae742925766@b38d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:On Schrodinger-Newton equation in 2-dimension
+DTEND:20220716T003000Z
+DTSTART:20220716T001500Z
+SUMMARY:Pratik Kafle
+UID:90c2662c-1c17-4f70-9bc7-56a0b3866cbd@90c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:First-principles study  of defected silicene for the adsorption of  methane gas molecule
+DTEND:20220716T040000Z
+DTSTART:20220716T034500Z
+SUMMARY:Tibendra Adhikari
+UID:256cb679-780a-4599-be12-53c9225bd97f@256c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dust charge fluctuation and ion acoustic wave propagation in dusty plasma with two temperature groups of electron: q-nonextensive hot and Maxwellian cold electrons
+DTEND:20220716T133000Z
+DTSTART:20220716T131500Z
+SUMMARY:Shiva Bikram Thapa
+UID:629d109e-485f-405b-ada3-29a4e3c50ae8@629d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Atmospheric Linke Turbidity index over Deukhuri Valley\, Dang
+DTEND:20220716T123000Z
+DTSTART:20220716T121500Z
+SUMMARY:Prakash Man Shrestha
+UID:ab26d187-0cc6-4c43-9773-16551056c6a9@ab26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:NUMERICAL ANALYTIC CONTINUATION TO PROBE THE ELECTRONIC STRUCTURE OF STRONGLY CORRELATED SYSTEM: MAXIMUM ENTROPY MODEL
+DTEND:20220717T163000Z
+DTSTART:20220717T161500Z
+SUMMARY:Raj K. Rai
+UID:ae38aad0-fceb-4127-a27e-6b90fbad9790@ae38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Helping traditionally under-served populations by changing the pedagogy of introductory physics
+DTEND:20220715T223000Z
+DTSTART:20220715T220000Z
+SUMMARY:Christopher Fischer (Invited)
+UID:61572cbd-d3f3-4949-82f1-847a9bb16baf@6157.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Evolution of field-induced and impurity-induced magnetic order in the quantum spin liquid candidate NaYbSe2
+DTEND:20220717T161500Z
+DTSTART:20220717T160000Z
+SUMMARY:Ganesh Pokharel
+UID:b7970002-1a74-48f7-8244-bd422574f603@b797.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Investigating Kaiso-Nuclear Co-repressor (N-CoR) Protein-Protein Interactions Using Molecular Simulations
+DTEND:20220717T013000Z
+DTSTART:20220717T011500Z
+SUMMARY:Bidhya Thapa
+UID:f18ff3d0-5a7b-4a6d-8586-93f7f7dfb5f9@f18f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Observation of multiple nodal-lines in SmSbTe
+DTEND:20220716T034500Z
+DTSTART:20220716T033000Z
+SUMMARY:Sabin Regmi
+UID:264af21f-0969-4b0b-b49f-8d6793db6f3c@264a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Accelerator Science at Jefferson Lab and other US National Laboratories
+DTEND:20220716T160000Z
+DTSTART:20220716T153000Z
+SUMMARY:Todd Satogata (Invited)
+UID:12c36758-9afc-446a-8c3f-a7c5d6161838@12c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Angle-Resolved Cathodoluminescence Imaging Polarimetry of Hybrid Perovskites
+DTEND:20220716T194500Z
+DTSTART:20220716T193000Z
+SUMMARY:Bibek Singh Dhami
+UID:2ca7f51e-9b20-4980-a27e-3fcae691d155@2ca7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Room temperature Magnetic sensing using 2D Magnet semicondcutor
+DTEND:20220716T020000Z
+DTSTART:20220716T014500Z
+SUMMARY:Bivek Pokhrel
+UID:e7324afc-405b-44d5-ac92-cfcc092b74a0@e732.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Study of a Bipolar Dust Structure Nearby the White Dwarf PG 1225?079 in IRIS\, AKARI and WISE Data
+DTEND:20220716T034500Z
+DTSTART:20220716T033000Z
+SUMMARY:Sushila Sigdel
+UID:b52f766e-3c4c-4068-9736-3a3b27cb2204@b52f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:plasmonic behavior of silicene and graphene based heterostructure
+DTEND:20220716T000000Z
+DTSTART:20220715T234500Z
+SUMMARY:Dipendra Dahal
+UID:448700ca-c564-4c55-b544-515afa210dfc@4487.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Light-absorbing aerosols and climate in South Asia
+DTEND:20220716T114500Z
+DTSTART:20220716T111500Z
+SUMMARY:Srikanthan Ramachandran (Invited)
+UID:99571230-3aab-476d-b354-8c036a408d84@9957.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dynamics of dust particles in active magnetized plasma sheath with non- thermal electrons
+DTEND:20220716T134500Z
+DTSTART:20220716T133000Z
+SUMMARY:Num Prasad Acharya
+UID:96247dc8-0cf5-4675-98b8-c2d28c36aa45@9624.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Longitudinal Solid Polarized Target for CLAS12
+DTEND:20220716T203000Z
+DTSTART:20220716T201500Z
+SUMMARY:Puspa Pandey
+UID:eed17fb8-94d0-4fda-8e55-4e3c4301e52d@eed1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Investigation of Laser Ablation as a Function of Pulse Length in Silicon  at 10^15 W/cm^2 Intensities
+DTEND:20220716T123000Z
+DTSTART:20220716T120000Z
+SUMMARY:Tirtha Raj Joshi (Invited)
+UID:9b206fa6-5ebd-4694-b629-05e4ea515c36@9b20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Unusual magnetic and transport properties in HoMn6Sn6 kagome magnet
+DTEND:20220717T151500Z
+DTSTART:20220717T150000Z
+SUMMARY:Robert Smith
+UID:ef34358a-dc9d-4a8a-bb04-bba40ee527ba@ef34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Supplementing the Learning of Physics with the Focused Instruction of Graphicacy
+DTEND:20220715T231500Z
+DTSTART:20220715T230000Z
+SUMMARY:Simon Rees
+UID:a73d0caa-410e-44f3-8760-2421ccdb4390@a73d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Environmental Intelligence using Machine Learning Applications
+DTEND:20220716T120000Z
+DTSTART:20220716T114500Z
+SUMMARY:Nabin Malakar
+UID:e817e47b-58bb-4b9a-a367-5f3061432530@e817.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Using Nobel Metal Nanoparticles for S protein Modification in Coronavirus treatment: An approach from Quantum Mechanical Study 
+DTEND:20220717T011500Z
+DTSTART:20220717T010000Z
+SUMMARY:BISHAL PANTHI
+UID:522a7f8f-08f2-447b-8a2e-b720fd4d0438@522a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AI For an Eye- Computer Vision is Helping Human Vision
+DTEND:20220716T004500Z
+DTSTART:20220716T003000Z
+SUMMARY:Kamal R Dhakal
+UID:beb6bf14-339d-4675-be54-f226c4aac415@beb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Brief overview of neuroimaging methods in brain functions and dysfunctions
+DTEND:20220717T010000Z
+DTSTART:20220717T004500Z
+SUMMARY:Bhim M Adhikari
+UID:1ff0d865-c88c-4e25-b062-c548292b8d1e@1ff0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Electronic structure evolution in magnetic topological materials
+DTEND:20220717T140000Z
+DTSTART:20220717T133000Z
+SUMMARY:Madhab Neupane (Invited)
+UID:9f702622-a3ae-4bb3-9d30-1f2df0a4765c@9f70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bangladesh\, China\, Vietnam\, Sri Lanka\, Pakistan\, India and Nepal (BCVSPIN): Past\, Present & Future
+DTEND:20220716T151500Z
+DTSTART:20220716T141500Z
+SUMMARY:Qaisar Shafi (Invited)
+UID:a465450b-035b-47a7-b067-5c1f0f609f11@a465.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Does Peer-Assisted Instruction for University Physics Help Improve Student Learning?
+DTEND:20220715T230000Z
+DTSTART:20220715T224500Z
+SUMMARY:Puskar Chapgain
+UID:52ae291d-fbcb-43bb-bdcc-e7d2fe53cb11@52ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mesoscopic magnetic modulation in chiral helimagnet Mn1/3NbS2
+DTEND:20220716T190000Z
+DTSTART:20220716T184500Z
+SUMMARY:Sunil K. Karna
+UID:57925dec-8e5a-4f02-ac4b-b2b654357c47@5792.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:First-principles simulations of liquid iron-heavy element alloys at high pressure?? 
+DTEND:20220717T150000Z
+DTSTART:20220717T144500Z
+SUMMARY:Dipendra Banjara
+UID:8397d013-7a0c-4f7b-b2b1-991eac97d302@8397.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Biologically Active Natural Products: Characterization and Quantum Mechanical Calculations
+DTEND:20220716T024500Z
+DTSTART:20220716T021500Z
+SUMMARY:Bhawani Datt Joshi (Invited)
+UID:77e2efdc-e04e-451e-97ec-832a2879ca3b@77e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Characteristics of Plasma Activated Water (PAW) Generated from Gliding Arc Discharge (GAD) and Its Applications on Enhancement of Seed Germination of Radish
+DTEND:20220716T130000Z
+DTSTART:20220716T124500Z
+SUMMARY:Santosh Dhungana
+UID:d49c1e4a-daf5-407a-bed3-983d3263b551@d49c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Crossover from Reverse Saturable Absorption to Saturable absorptions of Two-Dimensional TMDC
+DTEND:20220716T184500Z
+DTSTART:20220716T183000Z
+SUMMARY:Tikaram Neupane
+UID:13244d5a-1408-4f61-8038-26c135195ee4@1324.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Large Area High Efficiency Self-Powered Solid State Thermal Neutron Detectors
+DTEND:20220715T233000Z
+DTSTART:20220715T230000Z
+SUMMARY:Rajendra Dahal (Invited)
+UID:dbd1e769-dfb5-40bc-97ab-6161ec196cd9@dbd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Orbital Stability Analysis of Hypothetical Earth-mass and Luna-mass Moons in Sagarmatha (HD 100777) Star System
+DTEND:20220716T023000Z
+DTSTART:20220716T021500Z
+SUMMARY:Aayush Gautam
+UID:f5cdb53f-1d64-4e80-9ab8-e3ca63258c32@f5cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Smart Power Distribution Grids: Modeling and Optimal Control
+DTEND:20220716T013000Z
+DTSTART:20220716T010000Z
+SUMMARY:Sumit Paudyal (Invited)
+UID:2cbe55aa-dc06-46f5-8301-a4658d1896bc@2cbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Observation of Fermi-arcs and Weyl nodes in a new non-centrosymmetric magnetic Weyl semimetal 
+DTEND:20220717T160000Z
+DTSTART:20220717T154500Z
+SUMMARY:Dr. Anup Pradhan Sakhya
+UID:17fd165b-0cb8-45dc-a653-b46e00e81471@17fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Laboratory Astrophysics with Highly Charged Ions
+DTEND:20220716T183000Z
+DTSTART:20220716T180000Z
+SUMMARY:Joan Marler (Invited)
+UID:418f9b4e-654d-4659-9159-456d0f286fae@418f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EFFECT OF THICKNESS ON ZnO THIN FILM PREPARED BY DIP COATING TECHNIQUE FOR ETHONAL SENSING
+DTEND:20220716T033000Z
+DTSTART:20220716T031500Z
+SUMMARY:Yogesh Singh Maharjan
+UID:069f5093-ecf5-4ee3-b26b-bee30fde199e@069f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Astroparticle Physics at Extreme Energies: Current Status and Future Perspectives
+DTEND:20220716T140000Z
+DTSTART:20220716T133000Z
+SUMMARY:Niraj Dhital (Invited)
+UID:fb8d7a5e-c510-4e14-a38a-b986fc699320@fb8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Circular Velocities of Milky Way from Classical Cepheids from Gaia and OGLE
+DTEND:20220716T030000Z
+DTSTART:20220716T024500Z
+SUMMARY:Prajwal Poudyal
+UID:a12930bf-bd60-40a5-b915-75e1002d80a1@a129.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Study of an Isolated Dust Structure Nearby the White Dwarf WD0011-399 Using IRIS\, AKARI and WISE Data
+DTEND:20220716T033000Z
+DTSTART:20220716T031500Z
+SUMMARY:Sanjay Rijal
+UID:3a763985-8a13-4c61-b29d-bd868ccdc8fe@3a76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coparision of Aerosol optical properties over Beijing ( China) \, Kanpur( India)  and Pokhara ( Nepal) .
+DTEND:20220716T121500Z
+DTSTART:20220716T120000Z
+SUMMARY:Santosh Sapkota
+UID:eeeea2a2-abe9-409c-bea4-c56c0e2f6a31@eeee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Emergent La2CuO4-like interlayer antiferromagnetic magnetic order induced via orthorhombic-distortion in Sr2IrO4
+DTEND:20220716T030000Z
+DTSTART:20220716T024500Z
+SUMMARY:Sujan Shrestha
+UID:32044860-9cf4-4b70-a430-9ebaacec4efa@3204.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dark Matter detection using superconducting qubits
+DTEND:20220716T131500Z
+DTSTART:20220716T124500Z
+SUMMARY:Rakshya Khatiwada (Invited)
+UID:6436ce8d-bb58-41ee-bb47-a83b08966fab@6436.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Binding of Alpha-Crystallin with Lens Lipid Membranes Derived from a Single Lens
+DTEND:20220717T000000Z
+DTSTART:20220716T234500Z
+SUMMARY:Raju Timsina
+UID:316b4ee1-6b48-4687-b576-957f82b0212b@316b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:In silico approach to tackling viral and bacterial diseases
+DTEND:20220717T004500Z
+DTSTART:20220717T003000Z
+SUMMARY:Prem Chapagain (Invited)
+UID:315eadfb-5db4-4dc0-8fed-e785abe47e80@315e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Spectroscopic study of a possible Lambda-nn resonance and a pair of Sigma-NN states using the (e\,e'K+) reaction with a tritium target
+DTEND:20220716T201500Z
+DTSTART:20220716T200000Z
+SUMMARY:Bishnu Datt Pandey
+UID:e4d5fbd6-ce79-4cfd-8720-561acbddacd9@e4d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:RADIATION SHIELDING PROPERTIES OF SAMARIUM DOPED LEAD ALUMINO PHOSPHATE GLASSES
+DTEND:20220716T133000Z
+DTSTART:20220716T131500Z
+SUMMARY:Devendra Raj Upadhyay
+UID:96244f96-3d72-4054-9652-635f4dde6d80@9624.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:New insight into muSR in water
+DTEND:20220716T004500Z
+DTSTART:20220716T003000Z
+SUMMARY:Amba Datt Pant
+UID:3fa1b8e5-e0e9-48f7-a2f7-fbd0b0b9339a@3fa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teaching ultrasound to undergraduates using project-based learning approach
+DTEND:20220715T224500Z
+DTSTART:20220715T223000Z
+SUMMARY:Arbin Thapaliya
+UID:30ad5915-39cb-4fc5-b1ae-184a1e7f5fc1@30ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Effect of successive heat treatment on the performance of superconducting radio-frequency niobium cavities
+DTEND:20220716T204500Z
+DTSTART:20220716T203000Z
+SUMMARY:Bashu Dev Khanal
+UID:55451cae-a7a7-453a-8e16-fcaa87a6932d@5545.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Current Development in Structural Biology Techniques for Studying Membrane Proteins
+DTEND:20220716T233000Z
+DTSTART:20220716T230000Z
+SUMMARY:Indra D. Sahu (Invited)
+UID:4650adc1-66ec-411a-97e2-f9f0f62e4ec9@4650.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Origin of the metal-insulator transition in the parent compounds of Ru-pnictide superconductors
+DTEND:20220716T001500Z
+DTSTART:20220716T000000Z
+SUMMARY:Niraj Aryal
+UID:bbf75e26-b23d-4fba-a7b7-bb9aca6dc9b1@bbf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Observation of anisotropic Dirac cones in topologically rich Ti2Te2P
+DTEND:20220717T144500Z
+DTSTART:20220717T143000Z
+SUMMARY:Gyanendra Dhakal
+UID:c29762e7-ffff-40bf-b769-83cafcb83ef4@c297.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ultrafast relaxation of acoustic and optical phonons in a topological nodal-line semimetal ZrSiS
+DTEND:20220716T003000Z
+DTSTART:20220716T001500Z
+SUMMARY:Yangyang Liu
+UID:e865641a-e3cf-4548-b8ce-7484fecebb36@e865.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Generation of deep UV light in a gas filled anti-resonant hollow core fiber
+DTEND:20220716T140000Z
+DTSTART:20220716T134500Z
+SUMMARY:Tika R Kafle
+UID:6201f33e-1112-4fe4-906c-c96dea4312b1@6201.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Transition from a Physicist to a Data Scientist
+DTEND:20220716T001500Z
+DTSTART:20220715T234500Z
+SUMMARY:Bikalpa Neupane (Invited)
+UID:ace14fdd-9a50-405f-8212-499046b13943@ace1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Cell charging effect and the binding energy measurement of ions on a plastic surface in cryogenic liquids. 
+DTEND:20220716T163000Z
+DTSTART:20220716T161500Z
+SUMMARY:Ashok Timsina
+UID:aed41104-bfc3-41bb-8299-074e4d296755@aed4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Magnetic field mapping of 1.3 GHz superconducting radiofrequency cavities 
+DTEND:20220716T161500Z
+DTSTART:20220716T160000Z
+SUMMARY:Ishwari Prasad Parajuli
+UID:47910aff-3922-4b52-ac73-a7c26f408430@4791.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tuning of Magnetism via Doping in Kagome Magnet  YMn6Sn6-xGex
+DTEND:20220717T153000Z
+DTSTART:20220717T151500Z
+SUMMARY:Hari Bhandari 
+UID:0682c75f-5c01-4d25-9573-5f9811aa04ae@0682.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The design and testing of a UV-C-LED for applications in microbial and viral deactivation 
+DTEND:20220716T191500Z
+DTSTART:20220716T190000Z
+SUMMARY:Trailokya Bhattarai
+UID:45180d33-1afa-4427-85b2-81ee68a4efb6@4518.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:An AFM Approach in ?-Crystallin Membrane Association Studies
+DTEND:20220716T234500Z
+DTSTART:20220716T233000Z
+SUMMARY:Nawal Kishore Khadka
+UID:fb325d80-c192-4d20-8524-e55eb0a972df@fb32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Enhancing agricultural productivity with atmospheric pressure plasma
+DTEND:20220716T124500Z
+DTSTART:20220716T123000Z
+SUMMARY:Roshan Chalise
+UID:0d4bf906-fecf-493b-866a-24e4a91ecfe3@0d4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Investigation of Structure and Dynamics of the SecA Protein in Native Conditions via Atomic Force Microscopy
+DTEND:20220717T001500Z
+DTSTART:20220717T000000Z
+SUMMARY:Leona Choi
+UID:475ca9ae-74f0-436f-8b2c-33380a03adb9@475c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Novel Electronic Structure Signature across Antiferromagnetic Transition in Rare Earth Monopnictide NdSb
+DTEND:20220717T141500Z
+DTSTART:20220717T140000Z
+SUMMARY:Milo Sprague
+UID:61dd08be-de40-47d8-bc7c-a0c43e9b46ee@61dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bottom-up synthesis and characterization of soft magnetic composites for power conversion application
+DTEND:20220716T014500Z
+DTSTART:20220716T013000Z
+SUMMARY:Jagannath Devkota
+UID:fb8fd653-d60d-422a-aa84-f66561c0fef5@fb8f.org
+END:VEVENT
+END:VCALENDAR
